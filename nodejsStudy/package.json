@@ -1,0 +1,11 @@
+{
+  "name": "nodejsstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs.js",
+  "scripts": {
+    "start": "node staticApi"
+  },
+  "author": "",
+  "license": "ISC"
+}
