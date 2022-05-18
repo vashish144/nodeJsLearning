@@ -4,7 +4,7 @@ let fs = require('fs');
 
 
 
-//fs.appendFile()//it append the data if file is not created then create file if already created then it start writing in file
+// fs.appendFile()//it append the data if file is not created then create file if already created then it start writing in file
 // fs.appendFile("appendDemo.txt",`${Math.floor(Math.random()*1000)} data added \n`,"utf-8",(err)=>{
 //  if(err) throw err;
 //  console.log("data written successfully in file");

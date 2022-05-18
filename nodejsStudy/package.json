@@ -4,7 +4,8 @@
   "description": "",
   "main": "fs.js",
   "scripts": {
-    "start": "node staticApi"
+    "start": "node staticApi",
+    "dev":"nodemon staticApi"
   },
   "author": "",
   "license": "ISC"
