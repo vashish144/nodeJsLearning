@@ -6,7 +6,7 @@ let fs = require("fs");
 let mongo = require("mongodb");
 let PORT = process.env.PORT || 9870;
 let mongoClint = mongo.MongoClient;
-let mongoUrl = process.env.MongoUrl;
+let mongoUrl = process.env.mogoLiveUrl;
 let db;
 
 app.get("/", (req, res) => {
